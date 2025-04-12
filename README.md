@@ -1,0 +1,1 @@
+I have downloaded this (Orange Fruit Daatset)[https://www.kaggle.com/datasets/mohammedarfathr/orange-fruit-daatset/data] from kaggle to train ML model to detect the Disease in Orange.
