@@ -13,6 +13,7 @@ __pycache__/
 # 4. Ignore all files with a specific name (e.g., dataset.csv, data.json, etc.)
 # 5. Ignore all files in a specific subdirectory (e.g., data/raw, data/processed, etc.)
 FIELD IMAGES/
+Field Data/
 
 # Distribution / packaging
 .Python
