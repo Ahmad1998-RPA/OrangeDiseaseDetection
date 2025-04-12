@@ -6,6 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+# To ignore datasets and other large files, you can use the following patterns:
+# 1. Ignore all files in the data directory
+# 2. Ignore all files with a specific extension (e.g., .csv, .json, etc.)
+# 3. Ignore all files larger than a certain size (e.g., 10MB)
+# 4. Ignore all files with a specific name (e.g., dataset.csv, data.json, etc.)
+# 5. Ignore all files in a specific subdirectory (e.g., data/raw, data/processed, etc.)
+FIELD IMAGES/
+
 # Distribution / packaging
 .Python
 build/
